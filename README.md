@@ -1,7 +1,7 @@
 # powerbi-assignment
 Insights
 1.'Central' stands out as the region with the highest sales, significantly surpassing other regions.
-2.Carribean and Canada regions appear to have lower sales compared to the top-performing regions.
+2.Caribbean and Canada regions appear to have lower sales compared to the top-performing regions.
 3.Standard Class shipping accounts for the majority of sales, with 59.95% of the total sales.
 4.Same Day shipping has the lowest percentage of sales, at 5.28%, amounting to $667,201.98.
 5.The United States is the top-performing country, contributing $2,297,200.86 to the overall sales.
